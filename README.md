@@ -70,12 +70,14 @@ ngo-me-dashboard/
 └── screenshots/
     ├── dashboard1.png     
     ├── dashboard2.png  
-    └── dashboard3.png       
-📸 Additional Dashboard Views
+    └── dashboard3.png      
+```
+
+## 📸 Additional Dashboard Views
 1. Financial & Target Analytics
 2. Regional Performance & GIS Heatmap
 
-⚙️ Installation & Local Setup
+## ⚙️ Installation & Local Setup
 To run this dashboard locally on your machine:
 
 Clone the repository:
