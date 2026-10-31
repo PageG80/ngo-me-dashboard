@@ -6,9 +6,9 @@ A strategic intelligence platform designed for Program Managers and Monitoring &
 
 ## 📊 Dashboard Preview
 ![Public Health M&E Dashboard Preview]
-[Overview_layout](screenshots/dashboard1.png)
-[Map_preview](screenshots/dashboard2.png)
-[Overall summary](screenshots/dashboard3.png)
+![Overview_layout](screenshots/dashboard1.png)
+![Map_preview](screenshots/dashboard2.png)
+![Overall summary](screenshots/dashboard3.png)
 
 > **Live Interactive Demo:** *[Insert Streamlit Cloud Link Here]*
 
