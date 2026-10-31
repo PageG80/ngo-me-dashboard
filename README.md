@@ -10,7 +10,7 @@ A strategic intelligence platform designed for Program Managers and Monitoring &
 ![Map_preview](screenshots/dashboard2.png)
 ![Overall summary](screenshots/dashboard3.png)
 
-> **Live Interactive Demo:** *[Insert Streamlit Cloud Link Here]*
+> **Live Interactive Demo:** [Launch Dashboard](https://ngo-me-dashboard-11.streamlit.app/)
 
 ---
 
